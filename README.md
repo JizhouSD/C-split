@@ -1,4 +1,4 @@
-# C-split
+# C++ split string
 example for C++ split function
 
 ## What can you do with this project?
